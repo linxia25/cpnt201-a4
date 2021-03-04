@@ -1,2 +1,2 @@
-# cpnt201-a4
+# hello-conflict
 Specific methods for resolving merge conflicts
